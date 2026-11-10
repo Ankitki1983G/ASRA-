@@ -1,0 +1,6 @@
+2026/10/22-22:48:44.424 2048 Reusing MANIFEST D:\Development\Asra\ASRA\data\browser_profile\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/22-22:48:44.425 2048 Recovering log #3
+2026/10/22-22:48:44.440 2048 Reusing old log D:\Development\Asra\ASRA\data\browser_profile\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/10/22-22:48:45.283 2f10 Level-0 table #5: started
+2026/10/22-22:48:45.304 2f10 Level-0 table #5: 2993142 bytes OK
+2026/10/22-22:48:45.307 2f10 Delete type=0 #3

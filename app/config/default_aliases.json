@@ -1,0 +1,27 @@
+{
+    "browser": "chrome",
+    "google": "chrome",
+    "google chrome": "chrome",
+
+    "code": "vscode",
+    "editor": "vscode",
+    "code editor": "vscode",
+    "visual studio code": "vscode",
+
+    "notes": "notepad",
+    "notepad": "notepad",
+
+    "calculator": "calculator",
+
+    "paint": "mspaint",
+
+    "music player": "spotify",
+
+    "video player": "vlc",
+
+    "image editor": "paint",
+
+    "terminal": "cmd",
+
+    "file explorer": "explorer"
+}

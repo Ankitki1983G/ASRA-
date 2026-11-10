@@ -1,0 +1,1175 @@
+{
+    "chrome": {
+        "name": "Google Chrome",
+        "aliases": [
+            "browser",
+            "google",
+            "google chrome",
+            "internet",
+            "web browser",
+            "chrome"
+        ],
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "category": "browser",
+        "priority": 1,
+        "installed": true
+    },
+    "edge": {
+        "name": "Microsoft Edge",
+        "aliases": [
+            "edge",
+            "microsoft edge"
+        ],
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "category": "browser",
+        "priority": 2,
+        "installed": true
+    },
+    "firefox": {
+        "name": "Mozilla Firefox",
+        "aliases": [
+            "firefox",
+            "mozilla"
+        ],
+        "path": "",
+        "category": "browser",
+        "priority": 3,
+        "installed": false
+    },
+    "vscode": {
+        "name": "Visual Studio Code",
+        "aliases": [
+            "code",
+            "editor",
+            "code editor",
+            "coding",
+            "coding software",
+            "visual studio code",
+            "vs code",
+            "vscode"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "category": "development",
+        "priority": 1,
+        "installed": true
+    },
+    "pycharm": {
+        "name": "PyCharm",
+        "aliases": [
+            "pycharm",
+            "python ide",
+            "python editor"
+        ],
+        "path": "",
+        "category": "development",
+        "priority": 2,
+        "installed": false
+    },
+    "android_studio": {
+        "name": "Android Studio",
+        "aliases": [
+            "android studio",
+            "android"
+        ],
+        "path": "",
+        "category": "development",
+        "priority": 3,
+        "installed": false
+    },
+    "notepad": {
+        "name": "Notepad",
+        "aliases": [
+            "notepad",
+            "notes",
+            "text editor"
+        ],
+        "path": "notepad.exe",
+        "category": "system",
+        "priority": 1,
+        "installed": true
+    },
+    "calculator": {
+        "name": "Calculator",
+        "aliases": [
+            "calculator",
+            "calculater",
+            "calcula r",
+            "calc",
+            "cal"
+        ],
+        "path": "",
+        "category": "system",
+        "priority": 1,
+        "installed": false
+    },
+    "paint": {
+        "name": "Paint",
+        "aliases": [
+            "paint",
+            "mspaint",
+            "drawing"
+        ],
+        "path": "mspaint.exe",
+        "category": "system",
+        "priority": 1,
+        "installed": true
+    },
+    "explorer": {
+        "name": "File Explorer",
+        "aliases": [
+            "explorer",
+            "file explorer",
+            "files",
+            "folder"
+        ],
+        "path": "explorer.exe",
+        "category": "system",
+        "priority": 1,
+        "installed": true
+    },
+    "cmd": {
+        "name": "Command Prompt",
+        "aliases": [
+            "cmd",
+            "command prompt",
+            "terminal"
+        ],
+        "path": "C:\\WINDOWS\\system32\\cmd.exe",
+        "category": "system",
+        "priority": 1,
+        "installed": true
+    },
+    "powershell": {
+        "name": "PowerShell",
+        "aliases": [
+            "powershell",
+            "power shell"
+        ],
+        "path": "powershell.exe",
+        "category": "system",
+        "priority": 2,
+        "installed": true
+    },
+    "task_manager": {
+        "name": "Task Manager",
+        "aliases": [
+            "task manager",
+            "tasks"
+        ],
+        "path": "C:\\WINDOWS\\system32\\taskmgr.exe",
+        "category": "system",
+        "priority": 1,
+        "installed": true
+    },
+    "word": {
+        "name": "Microsoft Word",
+        "aliases": [
+            "word",
+            "ms word",
+            "document"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+        "category": "office",
+        "priority": 1,
+        "installed": true
+    },
+    "excel": {
+        "name": "Microsoft Excel",
+        "aliases": [
+            "excel",
+            "spreadsheet"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+        "category": "office",
+        "priority": 1,
+        "installed": true
+    },
+    "powerpoint": {
+        "name": "Microsoft PowerPoint",
+        "aliases": [
+            "powerpoint",
+            "ppt",
+            "presentation"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+        "category": "office",
+        "priority": 1,
+        "installed": true
+    },
+    "vlc": {
+        "name": "VLC Media Player",
+        "aliases": [
+            "vlc",
+            "video player",
+            "media player"
+        ],
+        "path": "",
+        "category": "media",
+        "priority": 1,
+        "installed": false
+    },
+    "spotify": {
+        "name": "Spotify",
+        "aliases": [
+            "spotify",
+            "music",
+            "music player"
+        ],
+        "path": "",
+        "category": "media",
+        "priority": 2,
+        "installed": false
+    },
+    "discord": {
+        "name": "Discord",
+        "aliases": [
+            "discord"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Discord\\Update.exe",
+        "category": "communication",
+        "priority": 1,
+        "installed": true
+    },
+    "steam": {
+        "name": "Steam",
+        "aliases": [
+            "steam",
+            "games",
+            "gaming"
+        ],
+        "path": "",
+        "category": "gaming",
+        "priority": 1,
+        "installed": false
+    },
+    "adobe imageready 7.0": {
+        "name": "Adobe Imageready 7.0",
+        "aliases": [
+            "adobe imageready 7.0"
+        ],
+        "path": "C:\\Program Files (x86)\\Adobe\\Photoshop 7.0\\ImageReady.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "adobe photoshop 7.0": {
+        "name": "Adobe Photoshop 7.0",
+        "aliases": [
+            "adobe photoshop 7.0"
+        ],
+        "path": "C:\\Program Files (x86)\\Adobe\\Photoshop 7.0\\Photoshop.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "adobe reader 9": {
+        "name": "Adobe Reader 9",
+        "aliases": [
+            "adobe reader 9"
+        ],
+        "path": "C:\\Windows\\Installer\\{AC76BA86-7AD7-1033-7B44-A93000000001}\\SC_Reader.ico",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "google chrome": {
+        "name": "Google Chrome",
+        "aliases": [
+            "google chrome"
+        ],
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "lenovo now": {
+        "name": "Lenovo Now",
+        "aliases": [
+            "lenovo now"
+        ],
+        "path": "C:\\Program Files (x86)\\Lenovo\\LenovoNow\\x86\\LenovoNow.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "microsoft edge": {
+        "name": "Microsoft Edge",
+        "aliases": [
+            "microsoft edge"
+        ],
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "onedrive photos": {
+        "name": "Onedrive Photos",
+        "aliases": [
+            "onedrive photos"
+        ],
+        "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "onedrive": {
+        "name": "Onedrive",
+        "aliases": [
+            "onedrive"
+        ],
+        "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "onenote": {
+        "name": "Onenote",
+        "aliases": [
+            "onenote"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "sticky notes (new)": {
+        "name": "Sticky Notes (New)",
+        "aliases": [
+            "sticky notes (new)"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "remote desktop connection": {
+        "name": "Remote Desktop Connection",
+        "aliases": [
+            "remote desktop connection"
+        ],
+        "path": "C:\\WINDOWS\\system32\\mstsc.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "steps recorder": {
+        "name": "Steps Recorder",
+        "aliases": [
+            "steps recorder"
+        ],
+        "path": "C:\\WINDOWS\\system32\\psr.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows media player legacy": {
+        "name": "Windows Media Player Legacy",
+        "aliases": [
+            "windows media player legacy"
+        ],
+        "path": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "component services": {
+        "name": "Component Services",
+        "aliases": [
+            "component services"
+        ],
+        "path": "C:\\WINDOWS\\system32\\comexp.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "computer management": {
+        "name": "Computer Management",
+        "aliases": [
+            "computer management"
+        ],
+        "path": "C:\\WINDOWS\\system32\\compmgmt.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "dfrgui": {
+        "name": "Dfrgui",
+        "aliases": [
+            "dfrgui"
+        ],
+        "path": "C:\\WINDOWS\\system32\\dfrgui.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "disk cleanup": {
+        "name": "Disk Cleanup",
+        "aliases": [
+            "disk cleanup"
+        ],
+        "path": "C:\\WINDOWS\\system32\\cleanmgr.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "event viewer": {
+        "name": "Event Viewer",
+        "aliases": [
+            "event viewer"
+        ],
+        "path": "C:\\WINDOWS\\system32\\eventvwr.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "iscsi initiator": {
+        "name": "Iscsi Initiator",
+        "aliases": [
+            "iscsi initiator"
+        ],
+        "path": "C:\\WINDOWS\\system32\\iscsicpl.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "memory diagnostics tool": {
+        "name": "Memory Diagnostics Tool",
+        "aliases": [
+            "memory diagnostics tool"
+        ],
+        "path": "C:\\WINDOWS\\system32\\MdSched.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "odbc data sources (32-bit)": {
+        "name": "Odbc Data Sources (32-Bit)",
+        "aliases": [
+            "odbc data sources (32-bit)"
+        ],
+        "path": "C:\\WINDOWS\\syswow64\\odbcad32.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "odbc data sources (64-bit)": {
+        "name": "Odbc Data Sources (64-Bit)",
+        "aliases": [
+            "odbc data sources (64-bit)"
+        ],
+        "path": "C:\\WINDOWS\\system32\\odbcad32.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "performance monitor": {
+        "name": "Performance Monitor",
+        "aliases": [
+            "performance monitor"
+        ],
+        "path": "C:\\WINDOWS\\system32\\perfmon.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "recoverydrive": {
+        "name": "Recoverydrive",
+        "aliases": [
+            "recoverydrive"
+        ],
+        "path": "C:\\WINDOWS\\system32\\RecoveryDrive.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "registry editor": {
+        "name": "Registry Editor",
+        "aliases": [
+            "registry editor"
+        ],
+        "path": "C:\\WINDOWS\\regedit.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "resource monitor": {
+        "name": "Resource Monitor",
+        "aliases": [
+            "resource monitor"
+        ],
+        "path": "C:\\WINDOWS\\system32\\perfmon.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "services": {
+        "name": "Services",
+        "aliases": [
+            "services"
+        ],
+        "path": "C:\\WINDOWS\\system32\\services.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "system configuration": {
+        "name": "System Configuration",
+        "aliases": [
+            "system configuration"
+        ],
+        "path": "C:\\WINDOWS\\system32\\msconfig.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "system information": {
+        "name": "System Information",
+        "aliases": [
+            "system information"
+        ],
+        "path": "C:\\WINDOWS\\system32\\msinfo32.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "task scheduler": {
+        "name": "Task Scheduler",
+        "aliases": [
+            "task scheduler"
+        ],
+        "path": "C:\\WINDOWS\\system32\\taskschd.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows defender firewall with advanced security": {
+        "name": "Windows Defender Firewall With Advanced Security",
+        "aliases": [
+            "windows defender firewall with advanced security"
+        ],
+        "path": "C:\\WINDOWS\\system32\\WF.msc",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "git bash": {
+        "name": "Git Bash",
+        "aliases": [
+            "git bash"
+        ],
+        "path": "C:\\Program Files\\Git\\git-bash.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "git cmd": {
+        "name": "Git Cmd",
+        "aliases": [
+            "git cmd"
+        ],
+        "path": "C:\\Program Files\\Git\\git-cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "git gui": {
+        "name": "Git Gui",
+        "aliases": [
+            "git gui"
+        ],
+        "path": "C:\\Program Files\\Git\\cmd\\git-gui.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "git release notes": {
+        "name": "Git Release Notes",
+        "aliases": [
+            "git release notes"
+        ],
+        "path": "C:\\Program Files\\Git\\ReleaseNotes.html",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "intellij idea 2025.3.4": {
+        "name": "Intellij Idea 2025.3.4",
+        "aliases": [
+            "intellij idea 2025.3.4"
+        ],
+        "path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.4\\bin\\idea64.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "office language preferences": {
+        "name": "Office Language Preferences",
+        "aliases": [
+            "office language preferences"
+        ],
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SETLANG.EXE",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "mysql shell": {
+        "name": "Mysql Shell",
+        "aliases": [
+            "mysql shell"
+        ],
+        "path": "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\mysqlsh.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "mysql workbench 8.0 ce": {
+        "name": "Mysql Workbench 8.0 Ce",
+        "aliases": [
+            "mysql workbench 8.0 ce"
+        ],
+        "path": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0\\MySQLWorkbench.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "install additional tools for node.js": {
+        "name": "Install Additional Tools For Node.Js",
+        "aliases": [
+            "install additional tools for node.js"
+        ],
+        "path": "C:\\Windows\\System32\\cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "node.js command prompt": {
+        "name": "Node.Js Command Prompt",
+        "aliases": [
+            "node.js command prompt"
+        ],
+        "path": "C:\\Windows\\System32\\cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "node.js": {
+        "name": "Node.Js",
+        "aliases": [
+            "node.js"
+        ],
+        "path": "C:\\Program Files\\nodejs\\node.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "uninstall node.js": {
+        "name": "Uninstall Node.Js",
+        "aliases": [
+            "uninstall node.js"
+        ],
+        "path": "C:\\Windows\\SysWOW64\\msiexec.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "backup database": {
+        "name": "Backup Database",
+        "aliases": [
+            "backup database"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\Backup.bat",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "get started": {
+        "name": "Get Started",
+        "aliases": [
+            "get started"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\Get_Started.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "restore database": {
+        "name": "Restore Database",
+        "aliases": [
+            "restore database"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\Restore.bat",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "run sql command line": {
+        "name": "Run Sql Command Line",
+        "aliases": [
+            "run sql command line"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\sqlplus.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "start database": {
+        "name": "Start Database",
+        "aliases": [
+            "start database"
+        ],
+        "path": "C:\\Windows\\SysWOW64\\cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "stop database": {
+        "name": "Stop Database",
+        "aliases": [
+            "stop database"
+        ],
+        "path": "C:\\Windows\\SysWOW64\\cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "sonma typing-expert": {
+        "name": "Sonma Typing-Expert",
+        "aliases": [
+            "sonma typing-expert"
+        ],
+        "path": "C:\\Program Files (x86)\\Sonma Typing-Expert\\Sonma Typing-Expert.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "uninstall": {
+        "name": "Uninstall",
+        "aliases": [
+            "uninstall"
+        ],
+        "path": "C:\\Program Files (x86)\\Sonma Typing-Expert\\unins000.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "user-guide": {
+        "name": "User-Guide",
+        "aliases": [
+            "user-guide"
+        ],
+        "path": "C:\\Windows\\Sonma Typing-Expert\\STEFeature.pdf",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "www.sonma.mobie.in": {
+        "name": "Www.Sonma.Mobie.In",
+        "aliases": [
+            "www.sonma.mobie.in"
+        ],
+        "path": "C:\\Program Files (x86)\\Sonma Typing-Expert\\sonma.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "adobe gamma loader": {
+        "name": "Adobe Gamma Loader",
+        "aliases": [
+            "adobe gamma loader"
+        ],
+        "path": "C:\\Program Files (x86)\\Common Files\\Adobe\\Calibration\\Adobe Gamma Loader.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "task manager": {
+        "name": "Task Manager",
+        "aliases": [
+            "task manager"
+        ],
+        "path": "C:\\WINDOWS\\system32\\taskmgr.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows powershell ise (x86)": {
+        "name": "Windows Powershell Ise (X86)",
+        "aliases": [
+            "windows powershell ise (x86)"
+        ],
+        "path": "C:\\WINDOWS\\syswow64\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows powershell ise": {
+        "name": "Windows Powershell Ise",
+        "aliases": [
+            "windows powershell ise"
+        ],
+        "path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "console rar manual": {
+        "name": "Console Rar Manual",
+        "aliases": [
+            "console rar manual"
+        ],
+        "path": "C:\\Program Files\\WinRAR\\Rar.txt",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "what is new in the latest version": {
+        "name": "What Is New In The Latest Version",
+        "aliases": [
+            "what is new in the latest version"
+        ],
+        "path": "C:\\Program Files\\WinRAR\\WhatsNew.txt",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "winrar help": {
+        "name": "Winrar Help",
+        "aliases": [
+            "winrar help"
+        ],
+        "path": "C:\\Program Files\\WinRAR\\WinRAR.chm",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "winrar": {
+        "name": "Winrar",
+        "aliases": [
+            "winrar"
+        ],
+        "path": "C:\\Program Files\\WinRAR\\WinRAR.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "uninstall xampp": {
+        "name": "Uninstall Xampp",
+        "aliases": [
+            "uninstall xampp"
+        ],
+        "path": "C:\\xampp\\uninstall.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "xampp control panel": {
+        "name": "Xampp Control Panel",
+        "aliases": [
+            "xampp control panel"
+        ],
+        "path": "C:\\xampp\\xampp-control.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "xampp htdocs folder": {
+        "name": "Xampp Htdocs Folder",
+        "aliases": [
+            "xampp htdocs folder"
+        ],
+        "path": "C:\\xampp\\htdocs",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "go to online forum": {
+        "name": "Go To Online Forum",
+        "aliases": [
+            "go to online forum"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\Online_forum.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "read documentation": {
+        "name": "Read Documentation",
+        "aliases": [
+            "read documentation"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\Read_Documentation.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "register for online forum": {
+        "name": "Register For Online Forum",
+        "aliases": [
+            "register for online forum"
+        ],
+        "path": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\Register.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "mysql installer - community": {
+        "name": "Mysql Installer - Community",
+        "aliases": [
+            "mysql installer - community"
+        ],
+        "path": "C:\\Program Files (x86)\\MySQL\\MySQL Installer for Windows\\MySQLInstaller.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "mysql 8.0 command line client - unicode": {
+        "name": "Mysql 8.0 Command Line Client - Unicode",
+        "aliases": [
+            "mysql 8.0 command line client - unicode"
+        ],
+        "path": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysql.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "mysql 8.0 command line client": {
+        "name": "Mysql 8.0 Command Line Client",
+        "aliases": [
+            "mysql 8.0 command line client"
+        ],
+        "path": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysql.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "character map": {
+        "name": "Character Map",
+        "aliases": [
+            "character map"
+        ],
+        "path": "C:\\WINDOWS\\system32\\charmap.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "administrative tools": {
+        "name": "Administrative Tools",
+        "aliases": [
+            "administrative tools"
+        ],
+        "path": "C:\\WINDOWS\\system32\\control.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "file explorer": {
+        "name": "File Explorer",
+        "aliases": [
+            "file explorer"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "livecaptions": {
+        "name": "Livecaptions",
+        "aliases": [
+            "livecaptions"
+        ],
+        "path": "C:\\WINDOWS\\system32\\LiveCaptions.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "magnify": {
+        "name": "Magnify",
+        "aliases": [
+            "magnify"
+        ],
+        "path": "C:\\WINDOWS\\system32\\magnify.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "narrator": {
+        "name": "Narrator",
+        "aliases": [
+            "narrator"
+        ],
+        "path": "C:\\WINDOWS\\system32\\narrator.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "on-screen keyboard": {
+        "name": "On-Screen Keyboard",
+        "aliases": [
+            "on-screen keyboard"
+        ],
+        "path": "C:\\WINDOWS\\system32\\osk.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "voiceaccess": {
+        "name": "Voiceaccess",
+        "aliases": [
+            "voiceaccess"
+        ],
+        "path": "C:\\WINDOWS\\system32\\voiceaccess.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "sochify exam test series": {
+        "name": "Sochify Exam Test Series",
+        "aliases": [
+            "sochify exam test series"
+        ],
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "github desktop": {
+        "name": "Github Desktop",
+        "aliases": [
+            "github desktop"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\GitHubDesktop\\GitHubDesktop.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "movavi screen recorder": {
+        "name": "Movavi Screen Recorder",
+        "aliases": [
+            "movavi screen recorder"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Movavi Screen Recorder\\ScreenRecorder.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "uninstall movavi screen recorder": {
+        "name": "Uninstall Movavi Screen Recorder",
+        "aliases": [
+            "uninstall movavi screen recorder"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Movavi Screen Recorder\\uninst.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "website movavi screen recorder": {
+        "name": "Website Movavi Screen Recorder",
+        "aliases": [
+            "website movavi screen recorder"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Movavi Screen Recorder\\Movavi Screen Recorder.url",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "idle (python 3.13 64-bit)": {
+        "name": "Idle (Python 3.13 64-Bit)",
+        "aliases": [
+            "idle (python 3.13 64-bit)"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "python 3.13 (64-bit)": {
+        "name": "Python 3.13 (64-Bit)",
+        "aliases": [
+            "python 3.13 (64-bit)"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "python 3.13 manuals (64-bit)": {
+        "name": "Python 3.13 Manuals (64-Bit)",
+        "aliases": [
+            "python 3.13 manuals (64-bit)"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Python\\Python313\\Doc\\html\\index.html",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "python 3.13 module docs (64-bit)": {
+        "name": "Python 3.13 Module Docs (64-Bit)",
+        "aliases": [
+            "python 3.13 module docs (64-bit)"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "command prompt": {
+        "name": "Command Prompt",
+        "aliases": [
+            "command prompt"
+        ],
+        "path": "C:\\WINDOWS\\system32\\cmd.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "control panel": {
+        "name": "Control Panel",
+        "aliases": [
+            "control panel"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "run": {
+        "name": "Run",
+        "aliases": [
+            "run"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "visual studio code": {
+        "name": "Visual Studio Code",
+        "aliases": [
+            "visual studio code"
+        ],
+        "path": "C:\\Users\\singh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows powershell (x86)": {
+        "name": "Windows Powershell (X86)",
+        "aliases": [
+            "windows powershell (x86)"
+        ],
+        "path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    },
+    "windows powershell": {
+        "name": "Windows Powershell",
+        "aliases": [
+            "windows powershell"
+        ],
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "category": "unknown",
+        "priority": 5,
+        "installed": true
+    }
+}

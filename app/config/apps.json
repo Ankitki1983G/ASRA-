@@ -1,0 +1,75 @@
+{
+    "chrome": {
+        "command": "start chrome",
+        "aliases": [
+            "chrome",
+            "google chrome",
+            "browser"
+        ]
+    },
+
+    "edge": {
+        "command": "start msedge",
+        "aliases": [
+            "edge",
+            "microsoft edge"
+        ]
+    },
+
+    "notepad": {
+        "command": "notepad",
+        "aliases": [
+            "notepad",
+            "note pad"
+        ]
+    },
+
+    "calculator": {
+        "command": "calc",
+        "aliases": [
+            "calculator",
+            "calc"
+        ]
+    },
+
+    "vscode": {
+        "command": "code",
+        "aliases": [
+            "vs code",
+            "visual studio code",
+            "code editor"
+        ]
+    },
+
+    "spotify": {
+        "command": "start spotify",
+        "aliases": [
+            "spotify",
+            "music"
+        ]
+    },
+
+    "discord": {
+        "command": "start discord",
+        "aliases": [
+            "discord"
+        ]
+    },
+
+    "file_explorer": {
+        "command": "explorer",
+        "aliases": [
+            "file explorer",
+            "files",
+            "folder"
+        ]
+    },
+
+    "settings": {
+        "command": "start ms-settings:",
+        "aliases": [
+            "settings",
+            "windows settings"
+        ]
+    }
+}
